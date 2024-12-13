@@ -74,7 +74,7 @@ How to Use
 
 Clone the repository:
 
-git clone https://github.com/your-repository/lung-nodule-analysis.git
+git clone https://github.com/EshwarAkhilesh25/Volumetric-3D-Lung-Nodule-Detection.git
 
 Navigate to the project directory:
 
